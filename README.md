@@ -23,11 +23,10 @@
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your app once published!)*
-
-| Light Mode | OLED Dark Mode | Calendar Heatmap | Custom Categories |
-|:---:|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400.png?text=Dashboard" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Dark+Mode" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Heatmap" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Categories" width="200"/> |
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshots/screenshot_1.jpg" width="200"/> | <img src="assets/screenshots/screenshot_2.jpg" width="200"/> | <img src="assets/screenshots/screenshot_3.jpg" width="200"/> | <img src="assets/screenshots/screenshot_4.jpg" width="200"/> | <img src="assets/screenshots/screenshot_5.jpg" width="200"/> |
+| <img src="assets/screenshots/screenshot_6.jpg" width="200"/> | <img src="assets/screenshots/screenshot_7.jpg" width="200"/> | <img src="assets/screenshots/screenshot_8.jpg" width="200"/> | <img src="assets/screenshots/screenshot_9.jpg" width="200"/> | <img src="assets/screenshots/screenshot_10.jpg" width="200"/> |
 
 ---
 
